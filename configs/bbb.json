@@ -1,0 +1,11 @@
+{
+  "erc20Address": "0x1e988ba4692e52Bc50b375bcC8585b95c48AaD77",
+  "fromBlock": 14198468,
+  "toBlock": 14238961,
+  "startingIx": 3000,
+  "outputFolder": "nftpartitions2",
+  "historical": {
+    "fromBlock": 13545550,
+    "toBlock": 14198467
+  }
+}

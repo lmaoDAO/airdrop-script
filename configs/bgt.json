@@ -1,0 +1,7 @@
+{
+  "erc20Address": "0xb9CA5e36d03CDb0DFA4561E7fec77CCD86A8B201",
+  "fromBlock": 9417405,
+  "toBlock": 9640631,
+  "outputFolder": "partitions",
+  "type": "erc20"
+}
